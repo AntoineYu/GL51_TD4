@@ -1,11 +1,9 @@
 package gl51.service
 
-import gl51.data.Ip
-
 /**
  * ceci convertit des IP en string
  */
-interface IpConverterService {
+interface IpConvertService {
 
     /**
      * convertit une IP en string
